@@ -6,7 +6,7 @@
   you want to know how far you model can fit the true generation distribution (accuracy), and how stable your model 
   can fit the true generation in the different scnerios (uncertainty). We regard the model setting and trainning strategies as a black box. We use
   the uncertainty based on the outputs of model to test Deep Learning. The project studies these diffrent test metricas for this problem. We use them
-  to socre data, select them, and show how to use the results to help Deep Learning.
+  to socre data, select them, and show how to use the results to help Deep Learning. Befotre testing, you should make sure that the output of your model currently have the similar distribution with the training dataset you use.
 
 - Implementation
   - python 3.6
