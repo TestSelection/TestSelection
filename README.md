@@ -13,6 +13,6 @@
   - foolbox, adversarial attacking
   - tensorflow 1.8
   - Keras
-  - We resue the code from Surprised Adequacy (https://arxiv.org/pdf/1808.08444.pdf) and DeepXplore(https://arxiv.org/abs/1705.06640).  
+  - We resue the code from Surprised Adequacy (https://arxiv.org/pdf/1808.08444.pdf) and DeepTest.  
   
 
