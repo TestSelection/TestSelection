@@ -2,7 +2,7 @@
 
 - Why ?
   - Deep Learning is a kind of statistical learning. To test the the deep learning model,
-  we need stand at an abstract point. Assuming the true data generation follows data generation `$G$`, 
+  we need stand at an abstract point. Assuming the true data generation follows data generation `G`, 
   you want to know how far you model can fit the true generation distribution (accuracy), and how stable your model 
   can fit the true generation in the different scnerios (uncertainty). We regard the model setting and trainning strategies as a black box. We use
   the uncertainty and covrage based on the outputs of model to test Deep Learning. The project studies these diffrent test metrics for this problem. We use them
